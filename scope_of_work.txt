@@ -1,0 +1,5 @@
+﻿Scope of Work
+* Game Development: Implement three core puzzle types (Sudoku, Word Search, Sliding Tile) with dynamic generation and rigorous mathematical validation to ensure solvability.
+* Full-Stack Architecture: Develop a decoupled frontend (React/Vue) and backend (Node/Python) to manage user accounts, leaderboards, and persistent state.
+* Security & Performance: Integrate secure password hashing, server-side score validation to prevent cheating, and ensure sub-2-second load times across mobile and desktop.
+* Documentation & Handover: Provide comprehensive technical documentation, including a database schema, API collection, deployment guide, and QA test reports to ensure the client has full control over the platform's future maintenance.

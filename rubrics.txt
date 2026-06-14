@@ -1,0 +1,25 @@
+﻿1. A folder named "CleverCubes_Delivery" exists.
+2. Contains exactly eight files.
+3. All file names match the exact naming convention.
+4. Frontend and backend zips are free of "node_modules".
+5. The deployment guide includes functional terminal commands.
+6. Sudoku generates 9x9 grids with one unique solution.
+7. Word Search supports diagonal, horizontal, and vertical placement.
+8. Sliding tile generator confirms solvability before launch.
+9. The browser console shows no fatal errors during gameplay.
+10. All interactive buttons and cells are at least 44x44 pixels.
+11. Puzzles scale to fit mobile viewports without horizontal scrolling.
+12. Database stores passwords using a secure hashing algorithm.
+13. API rejects score submissions with impossible completion times.
+14. The system requires HTTPS for production environments.
+15. Leaderboard accurately displays scores saved to the database.
+16. The deployment guide includes environment variable templates.
+17. Database schema PDF contains an ERD and data dictionary.
+18. QA report documents testing across multiple browsers.
+19. API documentation matches actual codebase endpoints.
+20. UI assets zip contains all original design files.
+21. The application uses semantic HTML button elements.
+22. The game timer stops immediately upon win-state.
+23. User input sanitization is active on registration/login.
+24. API returns no sensitive fields (e.g., password hashes).
+25. Application is free of off-palette colors.

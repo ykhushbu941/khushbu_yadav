@@ -1,0 +1,2 @@
+﻿Overview
+Clever Cubes is a responsive, web-based platform designed to provide a distraction-free environment for interactive puzzle games. The project aims to deliver a high-performance MVP that allows users to play Sudoku, Word Search, and Sliding Tile puzzles on any device. The focus is on secure user authentication, accurate game-logic algorithms, and a seamless, mobile-first user experience
